@@ -6,3 +6,7 @@ featureX 2
 release 1
 release 2
 develop 3
+hotfix 1
+hotfix 2
+hotfix 3
+hotfix 4
