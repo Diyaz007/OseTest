@@ -11,3 +11,5 @@ hotfix 2
 hotfix 3
 hotfix 4
 develop 4
+release2 1
+release2 2
