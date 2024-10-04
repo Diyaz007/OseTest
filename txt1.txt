@@ -20,3 +20,5 @@ featureZ 1
 featureZ 2
 featureZ 3
 develop 4
+release3 1
+release3 2
