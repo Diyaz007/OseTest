@@ -13,3 +13,6 @@ hotfix 4
 develop 4
 release2 1
 release2 2
+featureZ 1
+featureZ 2
+featureZ 3
