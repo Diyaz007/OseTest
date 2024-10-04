@@ -1,6 +1,8 @@
 main 1
 develop 1
 develop 2
+featureX 1
+featureX 2
 release 1
 release 2
 develop 3
