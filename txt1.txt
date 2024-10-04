@@ -3,4 +3,5 @@ develop 1
 release 1
 release 2
 hotfix 1
-hotfix 1
+hotfix 2
+hotfix 3
